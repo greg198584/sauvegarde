@@ -1,0 +1,5 @@
+#!/bin/sh 
+
+find . -name "*~" -delete -o -name "#*#" -delete
+exit 0
+

@@ -1,0 +1,4 @@
+dn: uid=glafitte,ou=2014,ou=people,dc=42,dc=fr
+changetype: modify
+mobile-phone: 0695158424
+
